@@ -19,3 +19,5 @@
         }
     ]
 }
+
+$["items"][0]["contentDetails"]["relatedPlaylists"]
